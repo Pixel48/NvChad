@@ -1,0 +1,3 @@
+vim.o.colorcolumn = "80"
+vim.o.relativenumber = true
+-- vim.lsp.enable('jedi_language_server')
